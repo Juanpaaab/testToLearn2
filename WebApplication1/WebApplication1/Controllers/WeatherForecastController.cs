@@ -34,5 +34,15 @@ namespace WebApplication1.Controllers
         {
             return a - b;
         }
+
+        public string frase(string frase)
+        {
+            return frase;
+        }
+
+        public string frase2(string frase2)
+        {
+            return frase2;
+        }
     }
 }

@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CatalinaMendozaAlvar\\OneDrive - Optima Corporation\\Escritorio\\prueba\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Desarrollo\\prueba\\testToLearn2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\CatalinaMendozaAlvar\\OneDrive - Optima Corporation\\Escritorio\\prueba\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Desarrollo\\prueba\\testToLearn2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\CatalinaMendozaAlvar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CatalinaMendozaAlvar\\OneDrive - Optima Corporation\\Escritorio\\prueba\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Desarrollo\\prueba\\testToLearn2\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CatalinaMendozaAlvar\\AppData\\Roaming\\NuGet\\NuGet.Config",

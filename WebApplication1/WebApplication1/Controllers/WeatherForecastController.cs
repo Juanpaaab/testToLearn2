@@ -23,5 +23,12 @@ namespace WebApplication1.Controllers
             return a + b;
         }
 
+        [HttpGet]
+        [Route("getHola")]
+        public ActionResult get()
+        {
+            return Ok();
+        }
+
     }
 }

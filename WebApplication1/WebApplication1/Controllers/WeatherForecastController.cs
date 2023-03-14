@@ -30,5 +30,9 @@ namespace WebApplication1.Controllers
             return Ok();
         }
 
+        public int restar(int a, int b)
+        {
+            return a - b;
+        }
     }
 }

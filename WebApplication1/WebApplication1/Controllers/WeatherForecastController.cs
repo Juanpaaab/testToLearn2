@@ -18,5 +18,10 @@ namespace WebApplication1.Controllers
             _logger = logger;
         }
 
+        public int sumar(int a, int b)
+        {
+            return a + b;
+        }
+
     }
 }
